@@ -1,0 +1,11 @@
+Name,WHO Region,Cases - cumulative total,Cases - cumulative total per 100000 population,Cases - newly reported in last 7 days,Cases - newly reported in last 7 days per 100000 population,Cases - newly reported in last 24 hours,Deaths - cumulative total,Deaths - cumulative total per 100000 population,Deaths - newly reported in last 7 days,Deaths - newly reported in last 7 days per 100000 population,Deaths - newly reported in last 24 hours
+Afghanistan,Eastern Mediterranean,235214,604,,,,7998,21,,,
+Albania,Europe,337196,11717,,,,3608,125,,,
+Argentina,Americas,10112394,22375,50,,50,130754,289,1,,1
+Australia,Western Pacific,11861161,46515,,,,25236,99,,,
+Bangladesh,South-East Asia,2051653,1246,,,,29499,18,,,
+Brazil,Americas,37722212,17747,1299,1,1299,702814,331,4,,4
+China,Western Pacific,99381761,6755,0,,0,122398,8,0,,0
+France,Europe,39038690,60023,311,,311,168162,259,,,
+India,South-East Asia,45044668,3264,,,,533664,39,,,
+South Africa,Africa,4072955,6867,,,,102595,173,,,
